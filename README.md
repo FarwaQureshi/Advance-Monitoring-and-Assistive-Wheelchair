@@ -25,7 +25,8 @@ DOI: 10.21015/vtse.v11i2.1575
 ## Hardware Components
 
 ### Embedded Controllers & Communication
-- ESP32 Microcontrollers
+- ESP32 Microcontroller
+- Arduino Uno
 - Bluetooth Communication
 - Wi-Fi Communication
 
@@ -57,7 +58,6 @@ DOI: 10.21015/vtse.v11i2.1575
 ## Repository Contents
 
 - ESP32 firmware source code
-- Mobile application interface (developed using MIT App Inventor)
 - Circuit diagrams and documentation
 
 ## Key Engineering Challenges
