@@ -57,8 +57,7 @@ DOI: 10.21015/vtse.v11i2.1575
 ## Repository Contents
 
 - ESP32 firmware source code
-- Mobile application source file (.aia)
-- Circuit design files (.fzz)
+- Mobile application interface (developed using MIT App Inventor)
 - Circuit diagrams and documentation
 
 ## Key Engineering Challenges
